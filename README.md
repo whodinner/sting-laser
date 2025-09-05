@@ -7,3 +7,8 @@ Legitimate networks can cause the same behavior (roaming, tower maintenance, wea
 Use for educational and research purposes only. This is not "catch" your unethical neighbors, or real stingrays (there's better tools and legal licenses for that). Do NOT use unethically if you're just poking around.
 
 Currently for Linux users only.
+
+install:
+
+sudo apt update
+sudo apt install python3 modemmanager
